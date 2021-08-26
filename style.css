@@ -1,0 +1,28 @@
+body
+{
+background-size: cover;
+text-align: center;
+}
+
+canvas{
+    width: 10px;
+    border-style: groove;
+    box-shadow: 20px  20px  20px palegreen ;
+    border-radius: 20px;
+    margin-left: 100px;
+
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white ;
+}
+
+#start , #status{
+    font-size: 22px;
+}
